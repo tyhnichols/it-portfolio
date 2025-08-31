@@ -1,0 +1,13 @@
+🧭 WEEK 1: Intro to IT, OS Basics, and Command Line
+Focus: Get comfortable using both Windows and Linux environments.
+✅ Labs & Tasks
+* Set up your lab environment:
+    * Install VirtualBox or VMware Workstation Player
+    * Create VMs for:
+        * Windows 10/11 (eval copy)
+        * Ubuntu (or Kali if using TryHackMe)
+* Complete:
+    * TryHackMe – Intro to Cybersecurity (or Linux Fundamentals Part 1)
+    * Basic Windows: file explorer, control panel, user settings
+    * Linux CLI basics: ls, cd, mkdir, nano, chmod, sudo
+🛠 Tools: TryHackMe, Windows VM, Linux VM

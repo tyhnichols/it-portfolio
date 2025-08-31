@@ -1,0 +1,8 @@
+🧭 WEEK 7: Security Awareness + Tools
+Focus: Show that you understand basic security hygiene.
+✅ Labs & Tasks
+* Learn about malware, phishing, MFA, strong passwords
+* Use Wireshark to inspect basic network traffic
+* Use Nmap to scan your local VMs
+* Learn how antivirus and patching work
+🛠 Tools: TryHackMe – Pre-Security Path, Wireshark, Nmap

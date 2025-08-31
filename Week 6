@@ -1,0 +1,8 @@
+🧭 WEEK 6: Linux Admin & Shell Scripting
+Focus: Develop basic Linux sysadmin and scripting knowledge.
+✅ Labs & Tasks
+* File permissions and ownership (chmod, chown)
+* Services and processes (ps, top, systemctl)
+* Install and remove software (apt, yum)
+* Write a simple Bash script (e.g., backup script or user creation)
+🛠 Tools: Ubuntu VM, TryHackMe – Linux Fundamentals Part 2 & 3

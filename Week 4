@@ -1,0 +1,9 @@
+🧭 WEEK 4: Active Directory & Group Policy
+Focus: Real-world IT skills used in nearly every enterprise.
+✅ Labs & Tasks
+* Set up Windows Server 2019/2022 VM
+* Promote it to a Domain Controller (AD DS role)
+* Join Windows 10 VM to the domain
+* Create users, groups, and OUs
+* Set up and test Group Policy (disable control panel, change wallpaper, etc.)
+🛠 Tools: Windows Server Eval ISO, VirtualBox

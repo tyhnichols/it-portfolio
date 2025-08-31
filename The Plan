@@ -1,0 +1,94 @@
+Hey. I am a recent cybersecurity graduate with very little hands-on experience. So, I asked ChatGPT to create a plan:
+
+Entry-Level IT Lab Checklist
+Name: Tiffany Nichols
+Goal: Land a job in IT Support/Help Desk
+Duration: 6-8 Weeks
+Total Weekly Time: ~6-10 hours
+
+🧭 WEEK 1: Intro to IT, OS Basics, and Command Line
+Focus: Get comfortable using both Windows and Linux environments.
+✅ Labs & Tasks
+* Set up your lab environment:
+    * Install VirtualBox or VMware Workstation Player
+    * Create VMs for:
+        * Windows 10/11 (eval copy)
+        * Ubuntu (or Kali if using TryHackMe)
+* Complete:
+    * TryHackMe – Intro to Cybersecurity (or Linux Fundamentals Part 1)
+    * Basic Windows: file explorer, control panel, user settings
+    * Linux CLI basics: ls, cd, mkdir, nano, chmod, sudo
+🛠 Tools: TryHackMe, Windows VM, Linux VM
+
+🧭 WEEK 2: Windows System Admin
+Focus: User and system management — core help desk tasks.
+✅ Labs & Tasks
+* Create multiple user accounts (admin, guest, standard)
+* Manage user groups and permissions
+* Explore Task Manager, Event Viewer, Device Manager
+* Use PowerShell:
+    * Create a script to add users
+    * Check running services
+🛠 Tools: Windows 10/11 VM, TryHackMe – Windows Fundamentals
+
+🧭 WEEK 3: Networking Essentials
+Focus: Learn the basics of networking and troubleshooting.
+✅ Labs & Tasks
+* Learn IP addressing, DHCP, DNS, default gateway
+* Practice subnetting (use SubnettingPractice.com)
+* Use command-line tools:
+    * ipconfig, ping, tracert, netstat, nslookup
+* Set up a basic virtual network in Cisco Packet Tracer
+🛠 Tools: Cisco Packet Tracer, TryHackMe – Network Fundamentals
+
+🧭 WEEK 4: Active Directory & Group Policy
+Focus: Real-world IT skills used in nearly every enterprise.
+✅ Labs & Tasks
+* Set up Windows Server 2019/2022 VM
+* Promote it to a Domain Controller (AD DS role)
+* Join Windows 10 VM to the domain
+* Create users, groups, and OUs
+* Set up and test Group Policy (disable control panel, change wallpaper, etc.)
+🛠 Tools: Windows Server Eval ISO, VirtualBox
+
+🧭 WEEK 5: Ticketing Systems & Troubleshooting
+Focus: Simulate IT support tickets and responses.
+✅ Labs & Tasks
+* Set up a mock ticketing system (e.g., Spiceworks Help Desk)
+* Create and resolve tickets:
+    * “Cannot print”
+    * “No internet”
+    * “Forgot password”
+    * “Computer slow”
+* Document steps: issue → diagnosis → resolution → response message
+🛠 Tools: Spiceworks, Notion or Google Docs for tracking
+
+🧭 WEEK 6: Linux Admin & Shell Scripting
+Focus: Develop basic Linux sysadmin and scripting knowledge.
+✅ Labs & Tasks
+* File permissions and ownership (chmod, chown)
+* Services and processes (ps, top, systemctl)
+* Install and remove software (apt, yum)
+* Write a simple Bash script (e.g., backup script or user creation)
+🛠 Tools: Ubuntu VM, TryHackMe – Linux Fundamentals Part 2 & 3
+
+🧭 WEEK 7: Security Awareness + Tools
+Focus: Show that you understand basic security hygiene.
+✅ Labs & Tasks
+* Learn about malware, phishing, MFA, strong passwords
+* Use Wireshark to inspect basic network traffic
+* Use Nmap to scan your local VMs
+* Learn how antivirus and patching work
+🛠 Tools: TryHackMe – Pre-Security Path, Wireshark, Nmap
+
+🧭 WEEK 8: Portfolio + Job Prep
+Focus: Package your skills and practice job interviews.
+✅ Tasks
+* Build a GitHub repo or Notion page with:
+    * Screenshots of your labs
+    * Write-ups explaining what you learned
+* Create or update your LinkedIn profile
+* Practice answering:
+    * “Tell me about a time you fixed a computer problem”
+    * “What’s your troubleshooting process?”
+* Apply to 5–10 jobs (even if you don’t meet all requirements)

@@ -1,0 +1,9 @@
+🧭 WEEK 3: Networking Essentials
+Focus: Learn the basics of networking and troubleshooting.
+✅ Labs & Tasks
+* Learn IP addressing, DHCP, DNS, default gateway
+* Practice subnetting (use SubnettingPractice.com)
+* Use command-line tools:
+    * ipconfig, ping, tracert, netstat, nslookup
+* Set up a basic virtual network in Cisco Packet Tracer
+🛠 Tools: Cisco Packet Tracer, TryHackMe – Network Fundamentals

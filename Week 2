@@ -1,0 +1,10 @@
+🧭 WEEK 2: Windows System Admin
+Focus: User and system management — core help desk tasks.
+✅ Labs & Tasks
+* Create multiple user accounts (admin, guest, standard)
+* Manage user groups and permissions
+* Explore Task Manager, Event Viewer, Device Manager
+* Use PowerShell:
+    * Create a script to add users
+    * Check running services
+🛠 Tools: Windows 10/11 VM, TryHackMe – Windows Fundamentals

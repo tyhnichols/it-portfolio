@@ -1,0 +1,11 @@
+🧭 WEEK 5: Ticketing Systems & Troubleshooting
+Focus: Simulate IT support tickets and responses.
+✅ Labs & Tasks
+* Set up a mock ticketing system (e.g., Spiceworks Help Desk)
+* Create and resolve tickets:
+    * “Cannot print”
+    * “No internet”
+    * “Forgot password”
+    * “Computer slow”
+* Document steps: issue → diagnosis → resolution → response message
+🛠 Tools: Spiceworks, Notion or Google Docs for tracking
